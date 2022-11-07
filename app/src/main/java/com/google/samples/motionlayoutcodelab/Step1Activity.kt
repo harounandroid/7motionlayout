@@ -30,6 +30,7 @@ class Step1Activity : AppCompatActivity() {
         setContentView(R.layout.activity_step1_completed)
         Log.e("step1","step1")
         Log.e("step2","step2")
+        Log.e("step3","step3")
     }
 
 }
