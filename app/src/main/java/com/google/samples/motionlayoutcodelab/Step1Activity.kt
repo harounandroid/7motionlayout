@@ -31,6 +31,7 @@ class Step1Activity : AppCompatActivity() {
         Log.e("step1","step1")
         Log.e("step2","step2")
         Log.e("step3","step3")
+        Log.e("step4","step4")
     }
 
 }
